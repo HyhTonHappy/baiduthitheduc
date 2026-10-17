@@ -1,0 +1,2 @@
+Các video của thầy (lời chào ở slide 1; dẫn bóng 10–12 m ở slide 15 và slide 21)
+đã nằm sẵn trong index.html, không cần thêm tệp vào thư mục này.
