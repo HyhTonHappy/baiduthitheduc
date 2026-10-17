@@ -1,0 +1,7 @@
+Lời thuyết minh giọng thầy cho 25 slide đã có sẵn bên trong index.html, không cần thêm tệp nào.
+
+Nếu thầy muốn thay bằng giọng tự thu âm:
+- Thu bằng điện thoại, lưu dạng .mp3, đặt tên theo số slide: slide-03.mp3, slide-09.mp3, ...
+- Chép các tệp vào thư mục audio này (cùng chỗ với tệp hướng dẫn).
+- Bài giảng tự dùng tệp của thầy; slide nào không có tệp thì vẫn dùng giọng có sẵn.
+Lời thuyết minh từng slide: bấm nút "Đọc lời thuyết minh" trên slide đó để xem và đọc theo khi thu.
